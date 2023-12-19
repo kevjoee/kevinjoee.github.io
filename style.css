@@ -74,7 +74,7 @@ h5 {
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
-    margin-left: 135px;
+    margin-left: 120px;
 }
 
 .button:hover {background-color: rgb(106, 187, 219)}
@@ -96,8 +96,8 @@ h5 {
     border: none;
     border-radius: 30px;
     box-shadow: 0 9px #999;
-    margin-left: 295px;
-    margin-top: 110px;
+    margin-left: 268px;
+    margin-top: 95px;
 }
 
 .button2:hover {
@@ -152,9 +152,9 @@ h5 {
     text-decoration: none;
     display: inline-block;
     padding: 8px 16px;
-    margin-left: 360px;
+    margin-left: 320px;
     border-radius: 50%;
-    margin-top: 90px;
+    margin-top: 30px;
   }
 
   a.next:hover {
